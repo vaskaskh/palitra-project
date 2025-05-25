@@ -1,0 +1,50 @@
+
+[
+    {   
+        "id":"0",
+        "image":"../images/Containertest.jpg",
+        "title":"ვინ იყო ვახტანგ გორგასლის დედა",
+        "view":"18,000 ნახვა",
+        "time":"3 წუთის საკითხავი",
+        "eyeIcon":"../images/EyeIcon.svg",
+        "timerIcon":"../images/TimerIcon.svg"
+    },
+   
+    {   
+        "id":"1",
+        "image":"../images/Containertest22.png",
+        "title":"ვინ იყო ვახტანგ გორგასლის დედა",
+        "view":"18,000 ნახვა",
+        "time":"3 წუთის საკითხავი",
+        "eyeIcon":"../images/EyeIcon.svg",
+        "timerIcon":"../images/TimerIcon.svg"
+    },
+    {   
+        "id":"2",
+        "image":"../images/Containertest.jpg",
+        "title":"ვინ იყო ვახტანგ გორგასლის დედა",
+        "view":"18,000 ნახვა",
+        "time":"3 წუთის საკითხავი",
+        "eyeIcon":"../images/EyeIcon.svg",
+        "timerIcon":"../images/TimerIcon.svg"
+    },
+     {   
+        "id":"3",
+        "image":"../images/Jiraffe4.png",
+        "title":"ვინ იყო ვახტანგ გორგასლის დედა",
+        "view":"18,000 ნახვა",
+        "time":"3 წუთის საკითხავი",
+        "eyeIcon":"../images/EyeIcon.svg",
+        "timerIcon":"../images/TimerIcon.svg"
+    },
+     {   
+        "id":"4",
+        "image":"../images/Jiraffe5.png",
+        "title":"ვინ იყო ვახტანგ გორგასლის დედა",
+        "view":"18,000 ნახვა",
+        "time":"3 წუთის საკითხავი",
+        "eyeIcon":"../images/EyeIcon.svg",
+        "timerIcon":"../images/TimerIcon.svg"
+    }
+    
+]

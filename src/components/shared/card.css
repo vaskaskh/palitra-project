@@ -1,0 +1,30 @@
+.cardWrapper{
+    display: flex;
+    flex-direction: column;
+    max-width: 424px;
+    max-height: 345px;
+}
+
+.cardWrapper-desc{
+    display: flex;
+    flex-direction: column;
+    max-width: 424px;
+}
+.cardWrapper-small {
+  display: flex;
+  flex-direction: row-reverse; 
+  align-items: center; 
+}
+
+.card_photo{
+    width: 424px;
+    height: 221px;
+    border-radius: 5px;
+}
+.card_title{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    vertical-align: middle;
+}
+

@@ -1,0 +1,38 @@
+.card_footer{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    
+    margin-top: 12px;
+    margin-bottom:31.75px ;
+}
+.card_footer_image{
+    width: 24px;
+    height: 24px;
+    border-radius: 12px;
+    object-fit: cover;
+}
+.card_footer_info{
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+
+.card_footer_info_small{
+    display: flex;
+    gap: 1rem;
+}
+
+.a{
+    display: flex;
+}
+
+.card_footer_infoalign{
+    display: flex;
+    color: black;
+}
+
+.card_footer_date{
+    color: #737373;
+}

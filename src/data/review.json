@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "image": "../images/reviewUser.svg",
+        "title": "ლურჯი თოლია",
+        "badge":"../images/Badge.png",
+        "badgeNum":"1",
+        "stat": "180 სტატია",
+        "hobby": ["უცნობი"]
+    },
+    {
+        "id": "2",
+        "image": "../images/reviewuser.svg",
+        "title": "ლურჯი თოლია",
+        "badge":"../images/Badge.png",
+        "badgeNum":"2",
+        "stat": "180 სტატია",
+        "hobby": ["უცნობი"]
+    },
+    {
+        "id": "3",
+        "image": "../images/reviewuser.svg",
+        "title": "ლურჯი თოლია",
+        "badge":"../images/Badge.png",
+        "badgeNum":"3",
+        "stat": "180 სტატია",
+        "hobby": ["პოლიტიკა", "ფეხბურთი"]
+    },
+    {
+        "id": "4",
+        "image": "../images/reviewuser.svg",
+        "title": "ლურჯი თოლია",
+        "badge":"../images/Badge.png",
+        "badgeNum":"4",
+        "stat": "180 სტატია",
+        "hobby": ["უცნობი", "ნაცნობი", "სახლი"]
+    }
+]
